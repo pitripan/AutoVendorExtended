@@ -1,0 +1,18 @@
+## Interface: 90001
+## Title: Auto Vendor Extended
+## Version: 1.2.0
+## Author: PitriPan
+## Notes: This addon extends AutoVendor with some neat little features.
+## Notes-deDE: Dieses Addon erweitert "AutoVendor" um einige kleinere Funktionen.
+## DefaultState: enabled
+## RequiredDeps: AutoVendor
+## X-Date: 2020-10-23T12:00:00Z
+## X-Website: https://www.curseforge.com/wow/addons/autovendor-extended
+## X-License: Public Domain
+## X-Category: Bags & Inventory, Auction & Economy
+## X-Localizations: enUS, deDE
+
+Locale\enUS.lua
+Locale\deDE.lua
+AutoVendorExtended.lua
+AutoVendorExtended.xml

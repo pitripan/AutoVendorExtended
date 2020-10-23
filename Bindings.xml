@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="AUTOVENDOREXTENDEDRESELL" header="AUTOVENDOREXTENDED" runOnUp="true" category="ADDONS">
+    AV:MERCHANT_SHOW()
+  </Binding>
+</Bindings>

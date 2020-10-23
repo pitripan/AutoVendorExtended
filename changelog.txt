@@ -1,0 +1,31 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+[Added, Changed, Deprecated, Removed, Fixed, Security]
+
+
+## [1.2.0] - 2020-10-23
+### Changed
+- updated game version to patch 9.0.1
+
+
+## [1.1.1] - 2020-01-10
+### Added
+- keybinding option for reselling
+- localization for keybinding
+### Changed
+- Versioning format changed from '1.1' to '1.1.0'
+
+
+## [1.1] - 2019-07-27
+### Added
+- localization for AutoVendor Extended specific texts and overrides
+- colorization for some output messages (e.g. "remove" -> red, "add" -> green)
+- Command "/notjunk" now takes more than one item to add or remove from notjunklist
+- show information in item tooltip if item is on "junk/not-junk" list
+
+
+## [1.0] - 2019-07-20
+### Added
+- Re-Sell button to the merchant window to sell another 12 items
+- Command "/junk" now takes more than one item to add or remove from junklist
